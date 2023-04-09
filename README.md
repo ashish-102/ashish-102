@@ -1,4 +1,4 @@
-## :wave: Hi, I’m @as702
+## :wave: Hi, I’m @ashish-102
 - 👀 I’m interested in New tech
 - 🌱 I’m currently learning web development
 
