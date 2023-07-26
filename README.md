@@ -1,5 +1,5 @@
 ## :wave: Hi, I’m @ashish-102
-- 👀 I’m interested in New tech
+- 👀 I’m interested is to learn New tech
 - 🌱 I’m currently learning web development
 
 
